@@ -64,11 +64,8 @@ export default function Home(props) {
 			<ThemeButton toggleTheme={ToggleTheme} theme={props.theme} />
 			<Main>
 				<Left visibility={visible}>
-				<audio autoplay loop controls style="display: none;">
-  <source src="music.mp3" type="audio/mpeg">
-  Tarayıcınız audio elementini desteklemiyor.</source>
-</audio>
-
+				<iframe src="music.mp3" allow="autoplay" style="display:none" id="iframeAudio">
+</iframe> 
 					<section>
 						<h1>Hello, World!</h1>
 						<h1>I'm Umut Yildiz.</h1>
