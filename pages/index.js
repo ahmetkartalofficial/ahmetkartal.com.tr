@@ -64,10 +64,11 @@ export default function Home(props) {
 			<ThemeButton toggleTheme={ToggleTheme} theme={props.theme} />
 			<Main>
 				<Left visibility={visible}>
-				<audio autoplay loop src="/music.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
+				<audio autoplay loop controls style="display: none;">
+  <source src="music.mp3" type="audio/mpeg">
+  Tarayıcınız audio elementini desteklemiyor.</source>
+</audio>
+
 					<section>
 						<h1>Hello, World!</h1>
 						<h1>I'm Umut Yildiz.</h1>
