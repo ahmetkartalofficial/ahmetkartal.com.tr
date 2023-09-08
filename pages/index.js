@@ -69,7 +69,7 @@ export default function Home(props) {
 						<h1>Merhaba!</h1>
 						<h1>Ben, Ahmet KARTAL</h1>
 						<p className="bio">
-						Merhaba, ben Ahmet Kartal, 17 yaşında, Samsun'da ikamet ediyorum. 14 Yaşımdan beri yazılımla uğraşıyorum. Ayrıca çoğu firmalarda yönetici olarak çalıştım veyahu kendi yazılım şirketlerim, hosting firmalarıma sahiplik yaptım. Aktif olarak Virtuoso:NET ve Dijitalfirman sahipleriyim, bu platformlarda hosting hizmetleri, yazılım hizmetleri, tasarım hizmetleri vermekteyim.</p>
+						Merhaba, ben Ahmet Kartal, 17 yaşındayım, Samsun'da ikamet ediyorum. 14 Yaşımdan beri yazılımla uğraşıyorum. Ayrıca çoğu firmalarda yönetici olarak çalıştım veyahut kendi yazılım şirketlerim, hosting firmalarıma sahiplik yaptım. Aktif olarak Virtuoso:NET ve Dijitalfirman sahibiyim, bu platformlarda hosting hizmetleri, yazılım hizmetleri, tasarım hizmetleri vermekteyim.</p>
 						<div className="headings">
 							<a id="link-skills" href="#skills">
 								<span>01&nbsp;</span>
