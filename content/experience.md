@@ -1,12 +1,12 @@
 ---
 roles:
-  - name: "Turkey Earthquake Solidarity Group (TDDG)"
+  - name: "DijtalFirman: Web, Yazılım, Logo Hizmetleri"
     type: "Founder"
     image: "tddg.png"
-    duration: "Feb 2023 - N/A"
-    link: "https://tddg.org.tr"
+    duration: "Feb 2021 - N/A"
+    link: "https://dijitalfirman.com"
     description:
-      - "Initiated and led earthquake relief and support efforts."
-      - "Coordinated various activities and fundraising initiatives."
-      - "Built a dedicated community for providing assistance to those affected."
+      - "Her büyük adım bir logo tasarımı ile başlar."
+      - "Web, Yazılım, Logo hizmetleri için en iyi seçenek."
+      - "Dijital'de yerini almak için, DijitalFİRMAN"
 ---
