@@ -71,19 +71,19 @@ function MyApp({ Component, pageProps }) {
 
         {/* Primary Meta Tags */}
         <title>Umut Yildiz's Portfolio</title>
-        <meta name="title" content="Umut Yildiz's Portfolio" />
+        <meta name="title" content="Ahmet Kartal Portfolio" />
         <meta
           name="description"
-          content="I am a Web Developer, I live in Turkey/Antalya, I am 19 years old, I am a Manager at Satan Hosting, I develop Satan Hosting as well as develop my personal site. I help people a lot about Web Software."
+          content="Merhaba, ben Ahmet Kartal, 17 yaşındayım, Samsun'da ikamet ediyorum. 14 Yaşımdan beri yazılımla uğraşıyorum. Ayrıca çoğu firmalarda yönetici olarak çalıştım veyahut kendi yazılım şirketlerim, hosting firmalarıma sahiplik yaptım. Aktif olarak Virtuoso:NET ve Dijitalfirman sahibiyim, bu platformlarda hosting hizmetleri, yazılım hizmetleri, tasarım hizmetleri vermekteyim."
         />
 
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://umut-yildiz.com/" />
-        <meta property="og:title" content="Umut Yildiz's Portfolio" />
+        <meta property="og:url" content="https://ahmetkartal.com.tr/" />
+        <meta property="og:title" content="Ahmet Kartal Portfolio" />
         <meta
           property="og:description"
-          content="I am a Web Developer, I live in Turkey/Antalya, I am 19 years old, I am a Manager at Satan Hosting, I develop Satan Hosting as well as develop my personal site. I help people a lot about Web Software."
+          content="Merhaba, ben Ahmet Kartal, 17 yaşındayım, Samsun'da ikamet ediyorum. 14 Yaşımdan beri yazılımla uğraşıyorum. Ayrıca çoğu firmalarda yönetici olarak çalıştım veyahut kendi yazılım şirketlerim, hosting firmalarıma sahiplik yaptım. Aktif olarak Virtuoso:NET ve Dijitalfirman sahibiyim, bu platformlarda hosting hizmetleri, yazılım hizmetleri, tasarım hizmetleri vermekteyim."
         />
         <meta property="og:image" content="/images/profile.gif" />
 
