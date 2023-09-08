@@ -1,7 +1,7 @@
 ---
 projects:
   - name: "Dijital Atolye"
-    description: "Web tasarım, logo tasarım, kurumsal kimlik tasarım, yazılım hizmetleri ve seo analizi sunan bir ajans firması olmaktadır. Aktif olarak faaliyetleri bulunmakta ve ilerlemektedir."
+    description: "Web tasarım, logo tasarım, kurumsal kimlik tasarım, yazılım hizmetleri ve seo analizi sunan bir ajans firması olmaktadır."
     platform: "İnternet, Sosyal Medya"
     stack: "Siz Hayal Edin, Biz Dijital'e dökelim"
     demo: "https://dijitalatolye.com/"
