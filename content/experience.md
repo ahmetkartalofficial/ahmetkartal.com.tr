@@ -2,7 +2,7 @@
 roles:
   - name: "Dijitalatolye: Web, Yazılım, Logo Hizmetleri"
     type: "Founder"
-    image: "tddg.png"
+    image: "djtl.png"
     duration: "Feb 2021 - N/A"
     link: "https://dijitalatolye.com"
     description:
