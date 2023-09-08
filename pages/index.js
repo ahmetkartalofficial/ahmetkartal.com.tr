@@ -88,17 +88,17 @@ export default function Home(props) {
 							</a>
 						</div>
 						<div className="profile">
-							<img src="https://cdn.discordapp.com/avatars/307066925425360897/7fe42666fb65502e852b2b21661e4f05.png" />
+							<img src="https://media.discordapp.net/attachments/1052940302538768454/1149672514033832006/362849775_1011788856922538_7584410980359815328_n.jpg" />
 							<a href="mailto:info@umut-yildiz.com.tr">info@umut-yildiz.com.tr</a>
 						</div>
 						<div className="details">
-							<Link href="https://github.com/umutyildizofficial" target="_blank">
+							<Link href="https://github.com/ahmetkartalofficial" target="_blank">
 								<FaGithub size={18} />
 								<span>GitHub</span>
 								<HiOutlineExternalLink size={16} />
 							</Link>
 							<Link
-								href="https://www.linkedin.com/in/umut-yildiz-644262285/"
+								href="https://www.linkedin.com/in/ahmet-kartal-68b283290/"
 								target="_blank"
 							>
 								<FaLinkedin size={18} />
@@ -107,13 +107,13 @@ export default function Home(props) {
 							</Link>
 						</div>
 						<div className="details">
-							<Link href="https://twitter.com/umutyildizofficial" target="_blank">
+							<Link href="https://www.instagram.com/ahmetkartal.dev/" target="_blank">
 								<FaTwitter size={18} />
-								<span>Twitter</span>
+								<span>İnstagram</span>
 								<HiOutlineExternalLink size={16} />
 							</Link>
 							<Link
-								href="https://www.youtube.com/channel/@umutyildizofficial"
+								href="https://www.youtube.com"
 								target="_blank"
 							>
 								<FaYoutube size={18} />
