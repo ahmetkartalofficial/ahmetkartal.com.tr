@@ -79,12 +79,12 @@ export default function Home(props) {
 							<a id="link-experience" href="#experience">
 								<span>02</span>
 								<span className="divider"></span>
-								<span>EXPERIENCE</span>
+								<span>DENEYİMLERİM</span>
 							</a>
 							<a id="link-projects" href="#projects">
 								<span>03</span>
 								<span className="divider"></span>
-								<span>PROJECTS</span>
+								<span>AKTİF PROJELERİM</span>
 							</a>
 						</div>
 						<div className="profile">
