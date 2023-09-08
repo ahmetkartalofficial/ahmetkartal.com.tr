@@ -108,7 +108,7 @@ export default function Home(props) {
 						</div>
 						<div className="details">
 							<Link href="https://www.instagram.com/ahmetkartal.dev/" target="_blank">
-								<FaTwitter size={18} />
+								<Faİnstagram size={18} />
 								<span>İnstagram</span>
 								<HiOutlineExternalLink size={16} />
 							</Link>
