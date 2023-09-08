@@ -66,8 +66,8 @@ export default function Home(props) {
 				<Left visibility={visible}>
 				<iframe width="0" height="0" src="https://www.youtube.com/embed/5WHFo53BXI8" title="Atatürk fikrimin ince gülü (ai cover)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 					<section>
-						<h1>Hello, World!</h1>
-						<h1>I'm Umut Yildiz.</h1>
+						<h1>Merhaba!</h1>
+						<h1>Ben, Ahmet KARTAL</h1>
 						<p className="bio">
 						Merhaba, ben Ahmet Kartal, 17 yaşında, Samsun'da ikamet ediyorum. 14 Yaşımdan beri yazılımla uğraşıyorum. Ayrıca çoğu firmalarda yönetici olarak çalıştım veyahu kendi yazılım şirketlerim, hosting firmalarıma sahiplik yaptım. Aktif olarak Virtuoso:NET ve Dijitalfirman sahipleriyim, bu platformlarda hosting hizmetleri, yazılım hizmetleri, tasarım hizmetleri vermekteyim.</p>
 						<div className="headings">
