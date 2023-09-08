@@ -89,7 +89,7 @@ export default function Home(props) {
 						</div>
 						<div className="profile">
 							<img src="https://media.discordapp.net/attachments/1052940302538768454/1149672514033832006/362849775_1011788856922538_7584410980359815328_n.jpg" />
-							<a href="mailto:info@umut-yildiz.com.tr">info@umut-yildiz.com.tr</a>
+							<a href="mailto:info@ahmetkaral.com.tr">info@ahmetkartal.com.tr</a>
 						</div>
 						<div className="details">
 							<Link href="https://github.com/ahmetkartalofficial" target="_blank">
