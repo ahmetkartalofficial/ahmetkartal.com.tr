@@ -69,7 +69,7 @@ export default function Home(props) {
 						<h1>Hello, World!</h1>
 						<h1>I'm Umut Yildiz.</h1>
 						<p className="bio">
-						Hello, I'm Ben Umut Yıldız, a 20-year-old residing in Antalya, Turkey. I am the founder of the Turkey Earthquake Solidarity Group, a platform dedicated to earthquake relief efforts. Additionally, I serve as the manager of Virtuoso, a technology company, and I'm also a skilled Full Stack Developer.</p>
+						Merhaba, ben Ahmet Kartal, 17 yaşında, Samsun'da ikamet ediyorum. 14 Yaşımdan beri yazılımla uğraşıyorum. Ayrıca çoğu firmalarda yönetici olarak çalıştım veyahu kendi yazılım şirketlerim, hosting firmalarıma sahiplik yaptım. Aktif olarak Virtuoso:NET ve Dijitalfirman sahipleriyim, bu platformlarda hosting hizmetleri, yazılım hizmetleri, tasarım hizmetleri vermekteyim.</p>
 						<div className="headings">
 							<a id="link-skills" href="#skills">
 								<span>01&nbsp;</span>
