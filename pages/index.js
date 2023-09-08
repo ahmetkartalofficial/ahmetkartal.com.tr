@@ -74,7 +74,7 @@ export default function Home(props) {
 							<a id="link-skills" href="#skills">
 								<span>01&nbsp;</span>
 								<span className="divider"></span>
-								<span>SKILLS</span>
+								<span>YETENEKLERİM</span>
 							</a>
 							<a id="link-experience" href="#experience">
 								<span>02</span>
