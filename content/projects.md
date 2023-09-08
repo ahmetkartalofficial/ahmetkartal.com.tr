@@ -1,15 +1,15 @@
 ---
 projects:
-  - name: "Turkey Earthquake Solidarity Group (TDDG)"
-    description: "As the founder of the Turkey Earthquake Solidarity Group (TDDG), I initiated and led earthquake relief and support efforts. I coordinated various activities, fundraised, and built a dedicated community to assist those affected by earthquakes."
-    platform: "Non-profit organization"
-    stack: "Coordination, fundraising, community building."
-    demo: "https://tddg.org.tr/"
+  - name: "Dijital Atolye"
+    description: "Web tasarım, logo tasarım, kurumsal kimlik tasarım, yazılım hizmetleri ve seo analizi sunan bir ajans firması olmaktadır. Aktif olarak faaliyetleri bulunmakta ve ilerlemektedir."
+    platform: "İnternet, Sosyal Medya"
+    stack: "Siz Hayal Edin, Biz Dijital'e dökelim"
+    demo: "https://dijitalatolye.com/"
 
-  - name: "Virtuoso"
-    description: "In my role as the manager of Virtuoso, a prominent technology company, I oversee team operations, project coordination, and strategic planning. I am committed to driving innovation and delivering high-quality technological solutions."
-    platform: "Technology company"
-    stack: "Team management, project coordination, strategic planning."
+  - name: "Virtuoso:NET"
+    description: "Hosting firmalarının öncüsünde ilerleyen Virtuoso:NET aktif olarak sunucu(vds), hosting, domain, nested, reseller, cpanel, plesk lisansları ve daha çok hizmet vermektedir."
+    platform: "Hosting Firması"
+    stack: "Yönetici, Geliştirici"
     demo: "https://virtuoso.net.tr/"
 
 ---
