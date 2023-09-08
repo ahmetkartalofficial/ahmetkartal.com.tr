@@ -124,7 +124,7 @@ export default function Home(props) {
 					</section>
 				</Left>
 				<Right>
-					<h1 id="skills">Skills</h1>
+					<h1 id="skills">Yeteneklerim</h1>
 					<VisibilitySensor
 						partialVisibility
 						onChange={(isVisible) => {
@@ -173,7 +173,7 @@ export default function Home(props) {
 						</Skills>
 					</VisibilitySensor>
 
-					<h1 id="experience">Experience</h1>
+					<h1 id="experience">Deneyimlerim</h1>
 					<VisibilitySensor
 						partialVisibility
 						onChange={(isVisible) => {
@@ -210,7 +210,7 @@ export default function Home(props) {
 						</section>
 					</VisibilitySensor>
 
-					<h1 id="projects">Projects</h1>
+					<h1 id="projects">Projelerim</h1>
 					<VisibilitySensor
 						partialVisibility
 						onChange={(isVisible) => {
